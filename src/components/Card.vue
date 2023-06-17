@@ -1,8 +1,8 @@
 <template>
     <div>
-        <div>
+        
             <img :src="ruta" alt="">
-        </div>
+        
     </div>
 </template>
 <script>

@@ -234,8 +234,8 @@ a,
 /* Second Image */
 #secondImage {
   position: absolute;
-  width: 878.88px;
-  height: 381.21px;
+  width: 56rem;
+  height: 371.21px;
   left: calc(50% - 688.88px/2 + 390.76px);
   top: 230px;
 
@@ -371,10 +371,10 @@ margin: 0 auto;
 
 .swiper-slide {
 text-align: center;
+
 }
 
 .swiper-pagination {
-
 position: absolute;
 width: 149px;
 height: 54.22px;
@@ -388,8 +388,8 @@ text-align: center;
 .swiper-button-prev {
 position: absolute;
 bottom: 5px;
-width: 20px;
-height: 20px;
+width: 15px;
+height: 15px;
 color: #8a8080;
 font-size: 20px;
 display: flex;
@@ -466,7 +466,7 @@ transform: rotate(360deg);
 
  #user_arrow{
    position: absolute;
-   left: 22.7rem;
+   left: 22.3rem;
    right: 0%;
    top: 1.7rem;
    bottom: 12.5%;

@@ -3,7 +3,7 @@
   <div id="app">
     <Header />
     <Content />
-    <ImagenesApi/>
+    <ImagenesApi />
   </div>
 </template>
 
