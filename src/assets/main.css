@@ -21,10 +21,11 @@ a,
   }
 }
 
-@media (min-width: 1024px) {
+@media screen and (min-width: 1024px) {
   body {
     display: flex;
     background: #262837;
+    zoom: 0.69;
   }
 
   #app {
@@ -50,7 +51,7 @@ a,
       position: absolute;
       width: 0%;
       height: 0%;
-      left: 10rem;
+      left: 5rem;
       top: 45%;
 
       transform: matrix(-1, 0, 0, 1, 0, 0);
@@ -170,7 +171,7 @@ a,
    /* User Arrow*/
    #user_arrow{     
     position: absolute;
-    left: 90%;
+    left: 92%;
     /* right: 0%; */
     top: 37.5%;
     bottom: 12.5%;
