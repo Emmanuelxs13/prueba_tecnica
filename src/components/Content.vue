@@ -38,3 +38,8 @@
     }
 </script>
 
+<style scoped>
+    div img {
+        border-radius: 12px;
+    }
+</style>
